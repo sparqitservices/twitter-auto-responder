@@ -142,7 +142,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-Created by [Your Name](https://yourportfolio.com) - Feel free to connect on [Twitter](https://twitter.com/yourusername) or [LinkedIn](https://linkedin.com/in/yourusername).
+Created by [Afzal Hameed](https://yourportfolio.com) - Feel free to connect on [Twitter](https://twitter.com/iafzalhameed) or [LinkedIn](https://linkedin.com/in/iafzalhameed).
 
 ---
 
